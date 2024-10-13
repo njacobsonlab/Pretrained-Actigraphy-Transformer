@@ -1,5 +1,5 @@
 
-# Is Attention All You Need For Actigraphy? Pre-trained Transformers for Wearable Accelerometer Data 
+# Is Attention All You Need For Actigraphy? Pre-trained Transformers for Wearable Accelerometer Data ⌚
 
 Abstract... blah blabh
 
