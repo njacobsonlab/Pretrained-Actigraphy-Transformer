@@ -98,5 +98,5 @@ if size == "large":
 
 ```
 
-## Attribution
+## 📜 Attribution
 Please cite our work if you use it 
