@@ -1,45 +1,42 @@
+# 🚀 Is Attention All You Need For Actigraphy? Pre-trained Transformers for Wearable Accelerometer Data 🏃‍♀️🏃
 
-# Is Attention All You Need For Actigraphy? Pre-trained Transformers for Wearable Accelerometer Data 🏃‍♀️🏃
+**Abstract:** ... blah blah
 
-Abstract... blah blabh
+---
 
-# Tutorial/Demo Notebooks:
-These notebooks should be self-sufficient so you should be able to run it all the way through :)
+## 📔 Tutorial/Demo Notebooks:
+These notebooks should be self-sufficient so you should be able to run them all the way through. Enjoy exploring!
 
-## ⭐ How to: Fine-tune ALBERT + How to use Built-in Model Explainability: https://colab.research.google.com/drive/1sub_5m6fV91GbqEOWT8Sl5RjwN2QnhNh?usp=sharing
+### ⭐ How to: Fine-tune ALBERT + Built-in Model Explainability
+[Launch Notebook](https://colab.research.google.com/drive/1sub_5m6fV91GbqEOWT8Sl5RjwN2QnhNh?usp=sharing)
 
-This notebook will walk you through: 
-* Setting up (importing/connecting to TPU)
-* Loading Demo Data
-* Loading Model
-* Finetuning Model
-* Evaluating Model
-* Model Explainability 
+This notebook will guide you through:
+1. Setting up (importing/connecting to TPU)
+2. Loading Demo Data
+3. Loading Model
+4. Finetuning Model
+5. Evaluating Model
+6. Model Explainability
 
-You have to connect to TPUv2, or this notebook will NOT work <be>  
-In Google Colab, go to runtime->change runtime type <br>
-Then select TPUv2 <br>
-However, this should already be the default setting when you open the link.
+> **Note:** You need to connect to TPUv2, or this notebook will **NOT** work.  
+> In Google Colab, go to `runtime -> change runtime type`, then select TPUv2. This should already be the default when you open the link.
 
-## How to: Self-Supervised Pretraining: https://colab.research.google.com/drive/14VxoXzA374nNqYANI52rXbGuSW2ZAkxZ#scrollTo=_uzonweo6pYs
+### 🎓 How to: Self-Supervised Pretraining
+[Launch Notebook](https://colab.research.google.com/drive/14VxoXzA374nNqYANI52rXbGuSW2ZAkxZ#scrollTo=_uzonweo6pYs)
 
-This notebook will walk you through: 
-* Setting Up (importing/connecting to TPU)
-* Choosing your Hyperparameters & Settings
-* Loading Demo Data
-* Loading Masked Autoencoder
-* Training in a Self-Supervised Manner
-* Saving only the model encoder
-* Inspecting the autoencoder
+This notebook covers:
+1. Setting Up (importing/connecting to TPU)
+2. Choosing Hyperparameters & Settings
+3. Loading Demo Data
+4. Loading Masked Autoencoder
+5. Self-Supervised Training
+6. Saving the Model Encoder
+7. Inspecting the Autoencoder
 
-You have to connect to TPUv2, or this notebook will NOT work <be>  
-In Google Colab, go to runtime->change runtime type <br>
-Then select TPUv2 <br>
-However, this should already be the default setting when you open the link.
+---
 
-# Model Explainability
-You may need some model details to run the model explainability function (i.e, know how many transformer layers or the patch size of each sized model) <br> 
-Here are all the parameters:
+## 🧠 Model Explainability
+For running the model explainability functions, you may need to know a few details about the model setup.
 
 ```python
 ## Model Size
