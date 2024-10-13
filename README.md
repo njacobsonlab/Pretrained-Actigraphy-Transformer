@@ -53,11 +53,7 @@ if size == "small":
   encoder_ff_dim = 256
   encoder_num_layers = 1
   encoder_rate = 0.1
-  # decoder
-  decoder_num_heads = 6
-  decoder_ff_dim = 256
-  decoder_num_layers = 1
-  decoder_rate = 0.1
+
 
 if size == "medium":
 
@@ -68,11 +64,7 @@ if size == "medium":
   encoder_ff_dim = 256
   encoder_num_layers = 2
   encoder_rate = 0.1
-  # decoder
-  decoder_num_heads = 12
-  decoder_ff_dim = 256
-  decoder_num_layers = 1
-  decoder_rate = 0.1
+
 
 if size == "large":
 
@@ -83,11 +75,7 @@ if size == "large":
   encoder_ff_dim = 256
   encoder_num_layers = 4
   encoder_rate = 0.1
-  # decoder
-  decoder_num_heads = 12
-  decoder_ff_dim = 256
-  decoder_num_layers = 1
-  decoder_rate = 0.1
+
 ```
 
 ## Attribution
