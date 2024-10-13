@@ -4,6 +4,8 @@
 Abstract... blah blabh
 
 # Tutorial/Demo Notebooks:
+These notebooks should be self-sufficient so you should be able to run it all the way through :)
+
 ## ⭐ How to: Fine-tune ALBERT + How to use Built-in Model Explainability: https://colab.research.google.com/drive/1sub_5m6fV91GbqEOWT8Sl5RjwN2QnhNh?usp=sharing
 
 This notebook will walk you through: 
