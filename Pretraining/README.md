@@ -22,7 +22,7 @@ smoothing = False
 mse_only_masked = False
 ```
 
-3. ALBERT_Conv_Pretraining: Large Model with 90% masking
+2. ALBERT_Conv_Pretraining: Large Model with 90% masking
 ``` python 
 ## Model size
 # eg. ["small", "medium", "large", "huge"]
