@@ -37,6 +37,12 @@ This notebook will guide you through:
 > In Google Colab, go to `runtime -> change runtime type`, then select TPUv2. This should already be the default when you open the link.
 
 ---
+# Albert Encoders Download
+
+
+1. [ALBERT-L](https://www.dropbox.com/scl/fi/man7n56fmo3m78bbeuic8/encoder_large_90_unsmoothed_mse_all.h5?rlkey=nnovpuo6yf42dqi9od3n9dqpl&st=mfc5f550&dl=0)
+
+---
 
 ## 🧠 Model Explainability
 You may need to know a few details about the model setup to run the model explainability functions. <br>
