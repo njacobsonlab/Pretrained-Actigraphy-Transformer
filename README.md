@@ -1,6 +1,6 @@
 # Is Attention All You Need For Actigraphy? Pre-trained Transformers for Wearable Accelerometer Data 🏃‍♀️🏃
 
-This is the GitHub page for the paper named above!
+Abstract: [Missing]
 
 ---
 
