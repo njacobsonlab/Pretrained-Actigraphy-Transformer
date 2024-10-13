@@ -41,7 +41,7 @@ However, this should already be the default setting when you open the link.
 You may need some model details to run the model explainability function (i.e, know how many transformer layers or the patch size of each sized model) <br> 
 Here are all the parameters:
 
-'''
+```
 ## Model Size
 if size == "small":
 
@@ -87,7 +87,7 @@ if size == "large":
   decoder_ff_dim = 256
   decoder_num_layers = 1
   decoder_rate = 0.1
-'''
+```
 
 ## Attribution
 Please cite our work if you use it 
