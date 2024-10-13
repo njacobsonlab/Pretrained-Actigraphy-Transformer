@@ -37,5 +37,57 @@ In Google Colab, go to runtime->change runtime type <br>
 Then select TPUv2 <br>
 However, this should already be the default setting when you open the link.
 
+# Model Explainability
+You may need some model details to run the model explainability function (i.e, know how many transformer layers or the patch size of each sized model) <br> 
+Here are all the parameters:
+
+'''
+## Model Size
+if size == "small":
+
+  patch_size = 18
+  embed_dim = 96
+  # encoder
+  encoder_num_heads = 6
+  encoder_ff_dim = 256
+  encoder_num_layers = 1
+  encoder_rate = 0.1
+  # decoder
+  decoder_num_heads = 6
+  decoder_ff_dim = 256
+  decoder_num_layers = 1
+  decoder_rate = 0.1
+
+if size == "medium":
+
+  patch_size = 18
+  embed_dim = 96
+  # encoder
+  encoder_num_heads = 12
+  encoder_ff_dim = 256
+  encoder_num_layers = 2
+  encoder_rate = 0.1
+  # decoder
+  decoder_num_heads = 12
+  decoder_ff_dim = 256
+  decoder_num_layers = 1
+  decoder_rate = 0.1
+
+if size == "large":
+
+  patch_size = 9
+  embed_dim = 96
+  # encoder
+  encoder_num_heads = 12
+  encoder_ff_dim = 256
+  encoder_num_layers = 4
+  encoder_rate = 0.1
+  # decoder
+  decoder_num_heads = 12
+  decoder_ff_dim = 256
+  decoder_num_layers = 1
+  decoder_rate = 0.1
+'''
+
 ## Attribution
 Please cite our work if you use it 
