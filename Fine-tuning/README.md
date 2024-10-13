@@ -8,7 +8,7 @@ Note that the top of the notebook shows you the setting for what's being run. Th
 # eg. ["small", "medium", "large", "huge"]
 size = "medium"
 
-## Mask ratio
+## Mask ratio (From pretraining)
 # eg. [.25, .50, .75]
 mask_ratio = 0.90
 
@@ -16,7 +16,7 @@ mask_ratio = 0.90
 # eg. [True, False]
 smoothing = False
 
-## Loss Function
+## Loss Function (from pretraining) 
 # eg. [True, False], meaning MSE on only the masked portion or everything in the reconstruction
 mse_only_masked = False
 ```
@@ -27,7 +27,7 @@ mse_only_masked = False
 # eg. ["small", "medium", "large", "huge"]
 size = "medium"
 
-## Mask ratio
+## Mask ratio (From pretraining)
 # eg. [.25, .50, .75]
 mask_ratio = 0.90
 
@@ -35,7 +35,7 @@ mask_ratio = 0.90
 # eg. [True, False]
 smoothing = False
 
-## Loss Function
+## Loss Function (From pretraining)
 # eg. [True, False], meaning MSE on only the masked portion or everything in the reconstruction
 mse_only_masked = False
 ```
