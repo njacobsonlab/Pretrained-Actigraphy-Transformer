@@ -47,7 +47,9 @@ These are the H5 files that store the pre-trained transformer encoder weights.
 4. ALBERT-Conv: Work in progress
 
 ### Pretrained on 2003-2004, 2005-2006, 2011-2012 NHANES Actigraphy (N=21,538)
-> ❗ Good if you want to conduct a study on 2013-2014 NHANES actigraphy data
+> ❗ Good if you want to conduct a study with 2013-2014 NHANES actigraphy data
+
+
 
 
 
