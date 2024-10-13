@@ -24,7 +24,7 @@ This notebook will guide you through:
 ### 🎓 How to: Self-Supervised Pretraining
 [Launch Notebook](https://colab.research.google.com/drive/14VxoXzA374nNqYANI52rXbGuSW2ZAkxZ#scrollTo=_uzonweo6pYs)
 
-This notebook covers:
+This notebook will guide you through:
 1. Setting Up (importing/connecting to TPU)
 2. Choosing Hyperparameters & Settings
 3. Loading Demo Data
