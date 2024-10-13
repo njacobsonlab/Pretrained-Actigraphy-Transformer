@@ -37,7 +37,7 @@ This notebook will guide you through:
 > In Google Colab, go to `runtime -> change runtime type`, then select TPUv2. This should already be the default when you open the link.
 
 ---
-## Albert Encoders Download
+## 💾 Albert Encoders Download
 These are the H5 files that store the pre-trained transformer encoder weights. The demo notebook above, `How to: Fine-tune ALBERT + Built-in Model Explainability`, shows you where to load encoders. 
 
 ### Pretrained on 2003-2004, 2005-2006, 2011-2012, 2013-2014 NHANES Actigraphy (N=29,307)
