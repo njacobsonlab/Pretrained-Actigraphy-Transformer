@@ -37,16 +37,16 @@ This notebook will guide you through:
 > In Google Colab, go to `runtime -> change runtime type`, then select TPUv2. This should already be the default when you open the link.
 
 ---
-# Albert Encoders Download
+## Albert Encoders Download
 These are the H5 files that store the pre-trained transformer encoder weights. 
 
-Pretrained on 2003-2004, 2005-2006, 2011-2012, 2013-2014 NHANES Actigraphy (N=29,307)
+###Pretrained on 2003-2004, 2005-2006, 2011-2012, 2013-2014 NHANES Actigraphy (N=29,307)
 1. [ALBERT-L](https://www.dropbox.com/scl/fi/man7n56fmo3m78bbeuic8/encoder_large_90_unsmoothed_mse_all.h5?rlkey=nnovpuo6yf42dqi9od3n9dqpl&st=mfc5f550&dl=0)
 2. [ALBERT-M](https://www.dropbox.com/scl/fi/jc1gdzuj1tp6oq0cu9xzk/encoder_medium_90_unsmoothed_mse_all.h5?rlkey=a1609bxbd4pxyvnk5uw2zl5vs&st=drbco21l&dl=0)
 3. [ALBERT-S](https://www.dropbox.com/scl/fi/0j03b6wzlav9p00qbg0ok/encoder_small_90_unsmoothed_mse_all.h5?rlkey=yu7s1jar6fbkfv1s71a05nyif&st=1zqo31t2&dl=0)
 4. ALBERT-Conv: WIP
 
-Pretrained on 2003-2004, 2005-2006, 2011-2012 NHANES Actigraphy (N=21,538)
+###Pretrained on 2003-2004, 2005-2006, 2011-2012 NHANES Actigraphy (N=21,538)
 > ❗ Good if you want to conduct a study on 2013-2014 NHANES actigraphy data
 
 
