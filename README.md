@@ -1,6 +1,6 @@
 # Is Attention All You Need For Actigraphy? Pre-trained Transformers for Wearable Accelerometer Data 🏃‍♀️🏃
 
->All the information to help you implement ALBERT can be found in this README! If anything is missing/confusing, don't hesitate to contact franklin.y.ruan.24@dartmouth.edu or aiwei.zhang.25@dartmouth.edu
+>All the information to help you implement ALBERT can be found in this README! If anything is missing/confusing, don't hesitate to contact the corresponding author: franklin.y.ruan.24@dartmouth.edu
 
 
 Abstract: [Missing]
