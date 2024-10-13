@@ -33,6 +33,9 @@ This notebook covers:
 6. Saving the Model Encoder
 7. Inspecting the Autoencoder
 
+> **Note:** You need to connect to TPUv2, or this notebook will **NOT** work.  
+> In Google Colab, go to `runtime -> change runtime type`, then select TPUv2. This should already be the default when you open the link.
+
 ---
 
 ## 🧠 Model Explainability
