@@ -8,7 +8,7 @@ Abstract: [Missing]
 These notebooks should be self-sufficient so you should be able to run them all the way through. Enjoy exploring!
 
 ### ⭐ How to: Fine-tune ALBERT + Built-in Model Explainability
-[Launch Notebook](https://colab.research.google.com/drive/1sub_5m6fV91GbqEOWT8Sl5RjwN2QnhNh?usp=sharing)
+[Launch Notebook](https://drive.google.com/file/d/13FBOP1rUeAfLmSrVv578XCGHqeEU4FJf/view?usp=sharing)
 
 This notebook will guide you through:
 1. Setting up (importing/connecting to TPU)
@@ -22,7 +22,7 @@ This notebook will guide you through:
 > In Google Colab, go to `runtime -> change runtime type`, then select TPUv2. This should already be the default when you open the link.
 
 ### 🎓 How to: Self-Supervised Pretraining
-[Launch Notebook](https://colab.research.google.com/drive/14VxoXzA374nNqYANI52rXbGuSW2ZAkxZ#scrollTo=_uzonweo6pYs)
+[Launch Notebook](https://drive.google.com/file/d/1yLsxmd8fhQzkQLaIl5PB6T6CVyCebA-r/view?usp=sharing)
 
 This notebook will guide you through:
 1. Setting Up (importing/connecting to TPU)
