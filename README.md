@@ -4,7 +4,7 @@
 Abstract... blah blabh
 
 # Tutorial/Demo Notebooks:
-## ⭐ How to Fine-tune ALBERT + How to use Built-in Model Explainability: https://colab.research.google.com/drive/1sub_5m6fV91GbqEOWT8Sl5RjwN2QnhNh?usp=sharing
+## ⭐ How to: Fine-tune ALBERT + How to use Built-in Model Explainability: https://colab.research.google.com/drive/1sub_5m6fV91GbqEOWT8Sl5RjwN2QnhNh?usp=sharing
 
 This notebook will walk you through: 
 * Setting up (importing/connecting to TPU)
@@ -19,7 +19,7 @@ In google colab, go to runtime->change runtime type <br>
 Then select TPUv2 <br>
 However, this should already be the default setting when you open the link.
 
-## How to do Self-Supervised Pretraining: https://colab.research.google.com/drive/14VxoXzA374nNqYANI52rXbGuSW2ZAkxZ#scrollTo=_uzonweo6pYs
+## How to: Self-Supervised Pretraining: https://colab.research.google.com/drive/14VxoXzA374nNqYANI52rXbGuSW2ZAkxZ#scrollTo=_uzonweo6pYs
 
 This notebook will walk you through: 
 * Setting Up (importing/connecting to TPU)
