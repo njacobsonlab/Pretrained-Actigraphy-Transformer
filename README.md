@@ -102,3 +102,10 @@ if size == "large":
 
 ## 📜 Attribution
 Please cite our work if you use it 
+
+## Contacts
+Corresponding Author: 
+* Franklin Ruan | Franklin.y.ruan.24@dartmouth.edu
+Co-author contacts:
+
+
