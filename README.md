@@ -39,7 +39,8 @@ This notebook will guide you through:
 ---
 
 ## 🧠 Model Explainability
-For running the model explainability functions, you may need to know a few details about the model setup.
+You may need to know a few details about the model setup to run the model explainability functions. <br>
+Here are some parameters:
 
 ```python
 ## Model Size
