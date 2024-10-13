@@ -1,9 +1,10 @@
+e
 # Is Attention All You Need For Actigraphy? Pre-trained Transformers for Wearable Accelerometer Data 
 
 Abstract... blah blabh
 
 # Demo Notebooks Below: 
-## ⭐ How to Finetune ALBERT + How to use Model Explainability: https://colab.research.google.com/drive/1sub_5m6fV91GbqEOWT8Sl5RjwN2QnhNh?usp=sharing
+## ⭐ How to Fine-tune ALBERT + How to use built-in Model Explainability: https://colab.research.google.com/drive/1sub_5m6fV91GbqEOWT8Sl5RjwN2QnhNh?usp=sharing
 
 This notebook will walk you through: 
 * Setting up (importing/connecting to TPU)
