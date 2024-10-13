@@ -4,7 +4,7 @@
 
 ---
 
-## 📔 Tutorial/Demo Notebooks:
+## 📔 Tutorial/Demo Notebooks (via Google Colab) 
 These notebooks should be self-sufficient so you should be able to run them all the way through. Enjoy exploring!
 
 ### ⭐ How to: Fine-tune ALBERT + Built-in Model Explainability
