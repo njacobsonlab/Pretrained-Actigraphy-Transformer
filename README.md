@@ -41,7 +41,7 @@ However, this should already be the default setting when you open the link.
 You may need some model details to run the model explainability function (i.e, know how many transformer layers or the patch size of each sized model) <br> 
 Here are all the parameters:
 
-```
+```python
 ## Model Size
 if size == "small":
 
