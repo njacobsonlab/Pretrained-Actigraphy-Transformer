@@ -38,4 +38,4 @@ Then select TPUv2 <br>
 However, this should already be the default setting when you open the link.
 
 ## Attribution
-Please cite our work if you use the code here. 
+Please cite our work if you use it 
