@@ -22,7 +22,7 @@ mse_only_masked = False
 ```
 
 2. ALBERT_Conv_finetuning:
-```
+```python
 ## Model size
 # eg. ["small", "medium", "large", "huge"]
 size = "medium"
