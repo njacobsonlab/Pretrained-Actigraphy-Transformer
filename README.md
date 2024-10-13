@@ -14,8 +14,8 @@ This notebook will walk you through:
 * Evaluating Model
 * Model Explainability 
 
-You have to connect to TPUv2, or this will NOT work <be>  
-In google colab, go to runtime->change runtime type <br>
+You have to connect to TPUv2, or this notebook will NOT work <be>  
+In Google Colab, go to runtime->change runtime type <br>
 Then select TPUv2 <br>
 However, this should already be the default setting when you open the link.
 
@@ -29,6 +29,11 @@ This notebook will walk you through:
 * Training in a Self-Supervised Manner
 * Saving only the model encoder
 * Inspecting the autoencoder
+
+You have to connect to TPUv2, or this notebook will NOT work <be>  
+In Google Colab, go to runtime->change runtime type <br>
+Then select TPUv2 <br>
+However, this should already be the default setting when you open the link.
 
 ## Attribution
 Please cite our work if you use the code here. 
