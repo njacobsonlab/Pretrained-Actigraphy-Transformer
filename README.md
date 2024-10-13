@@ -48,7 +48,8 @@ These are the H5 files that store the pre-trained transformer encoder weights.
 
 ### Pretrained on 2003-2004, 2005-2006, 2011-2012 NHANES Actigraphy (N=21,538)
 > ❗ Good if you want to conduct a study with 2013-2014 NHANES actigraphy data
-
+1. [ALBERT-L](https://www.dropbox.com/scl/fi/gpa294hjl1cpt2tgf0s7o/encoder_large_90_unsmoothed_mse_all.h5?rlkey=8d7rv9qtt36ammgy14ed769we&st=cvhmwxeo&dl=0)
+2. [ALBERT-M]
 
 
 
