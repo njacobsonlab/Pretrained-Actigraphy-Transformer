@@ -40,7 +40,7 @@ This notebook will guide you through:
 
 ## 🧠 Model Explainability
 You may need to know a few details about the model setup to run the model explainability functions. <br>
-Here are some parameters:
+Here are some parameters for your reference:
 
 ```python
 ## Model Size
