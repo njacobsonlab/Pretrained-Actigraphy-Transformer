@@ -103,7 +103,7 @@ if size == "large":
 ## 📜 Attribution
 Please cite our work if you use it 
 
-## Contacts
+## ☎️ Contacts
 **Corresponding Author:** 
 * Franklin Ruan | franklin.y.ruan.24@dartmouth.edu <br>
 
