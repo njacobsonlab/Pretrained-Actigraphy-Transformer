@@ -104,8 +104,7 @@ if size == "large":
 Please cite our work if you use it 
 
 ## ☎️ Contacts
-**Corresponding Author:** 
-* Franklin Ruan | franklin.y.ruan.24@dartmouth.edu <br>
+**Corresponding Author:** Franklin Ruan | franklin.y.ruan.24@dartmouth.edu <br>
 
 **Co-author contacts:**
 
