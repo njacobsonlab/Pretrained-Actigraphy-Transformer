@@ -3,7 +3,7 @@
 Abstract... blah blabh
 
 # Demo Notebooks Below: 
-## ⭐ How to Finetune Albert + How to use Model Explainability: https://colab.research.google.com/drive/1sub_5m6fV91GbqEOWT8Sl5RjwN2QnhNh?usp=sharing
+## ⭐ How to Finetune ALBERT + How to use Model Explainability: https://colab.research.google.com/drive/1sub_5m6fV91GbqEOWT8Sl5RjwN2QnhNh?usp=sharing
 
 This notebook will walk you through: 
 * Setting up (importing/connecting to TPU)
