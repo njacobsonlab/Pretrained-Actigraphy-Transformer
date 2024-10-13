@@ -18,7 +18,7 @@ This notebook will walk you through:
 
 
 You have to connect to TPUv2, or this will NOT work <be>  
-Go to runtime->change runtime type <br>
+In google colab, go to runtime->change runtime type <br>
 Then select TPUv2 <br>
 However, this should already be the default setting when you open the link.
 
