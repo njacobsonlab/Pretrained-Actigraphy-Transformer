@@ -1,6 +1,6 @@
-# Is Attention All You Need For Actigraphy? Pre-trained Transformers for Wearable Accelerometer Data 🏃‍♀️🏃
+# Is Attention All You Need For Actigraphy? Foundation Models of Wearable Accelerometer Data for Mental Health Research 🏃‍♀️🏃
 
-This is the GitHub associated with the paper "Is Attention All You Need For Actigraphy? Pre-trained Transformers for Wearable Accelerometer Data" <br>
+This is the GitHub associated with the paper "Is Attention All You Need For Actigraphy? Foundation Models of Wearable Accelerometer Data for Mental Health Research" <br>
 
 Abstract: Wearable accelerometry (actigraphy) has provided valuable data for clinical and academic insights on health since the 1970s and is increasingly important as wearables continue to become more widely used. However, the use of actigraphy in research and clinical contexts depends largely on the modeling architectures used to analyze it. As there is a large gap between the existing models used for Actigraphy and the potential state-of-the-art, we designed a fully attention-based Actigraphy Transformer (AT) and then pretrained it on 29k participants’ actigraphy data from NHANES in a BERT-like approach, to create PAT (Pretrained Actigraphy Transformer). PAT consistently outperforms other common methods used to model actigraphy data in various tasks, including in datasets with limited participants. Under 2M parameters and with model explainability built in, our PAT models are robust yet lightweight and easy to deploy without extensive resources in research settings. <br>
 
