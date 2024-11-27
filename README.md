@@ -4,7 +4,8 @@ This is the GitHub associated with the paper "Is Attention All You Need For Acti
 
 Abstract: Wearable accelerometry (actigraphy) has provided valuable data for clinical insights since the 1970s and is increasingly important as wearable devices continue to become widespread. The effectiveness of actigraphy in research and clinical contexts is heavily dependent on the modeling architecture utilized. To address this, we developed the Pretrained Actigraphy Transformer (PAT)—the first pretrained and fully attention-based model designed specifically to handle actigraphy. PAT was pretrained on actigraphy from 29,307 participants in NHANES, enabling it to deliver state-of-the-art performance when fine-tuned across various actigraphy prediction tasks in the mental health domain, even in data-limited scenarios. For example, when trained to predict benzodiazepine usage using actigraphy from only 500 labeled participants, PAT achieved an 8.8 percentage-point AUC improvement over the best baseline. With fewer than 2 million parameters and built-in model explainability, PAT is robust yet easy to deploy in health research settings. <br>
 
-doi: 
+paper: https://doi.org/10.48550/arXiv.2411.15240
+
 
 
 ## 📔 Tutorial/Demo Notebooks (via Google Colab) 
