@@ -6,6 +6,24 @@ Abstract: Wearable accelerometry (actigraphy) has provided valuable data for cli
 
 paper: https://doi.org/10.48550/arXiv.2411.15240
 
+<details>
+  <summary>Click to expand!</summary>
+
+  - Item 1
+  - Item 2
+  - Item 3
+
+</details>
+
+<details>
+  <summary>Another toggle section</summary>
+
+  Here you can provide additional details, code snippets, or nested lists.
+
+  - Nested Item A
+  - Nested Item B
+
+</details>
 
 
 ## 📔 Tutorial/Demo Notebooks (via Google Colab) 
