@@ -44,8 +44,8 @@ This notebook will guide you through:
 > It is possible to easily adapt this notebook so that you can run with GPUs instead if you choose
 
 ---
-## 💾 PAT Encoders Download
-These are the H5 files that store the pre-trained transformer encoder objects themselves. Don't worry, they are small, just a few megabytes. The demo notebook above, `How to: Fine-tune PAT + Built-in Model Explainability`, shows you where to load encoders. 
+## 💾 PAT Encoders Weights Download
+These are the H5 files that store the pre-trained transformer encoder weights. Don't worry, they are small, just a few megabytes. The demo notebook above, `How to: Fine-tune PAT + Built-in Model Explainability`, shows you where to load encoder weights. 
 
 ### Pretrained on 2003-2004, 2005-2006, 2011-2012, 2013-2014 NHANES Actigraphy (N=29,307)
 1. [PAT-L](https://www.dropbox.com/scl/fi/dglz917p3hqw5mwbovsv2/PAT-L_21k_weights.h5?rlkey=ppzxvp9i7t9k8j3w9x77fjfil&st=3g3mm845&dl=1)
