@@ -23,7 +23,7 @@ This notebook will guide you through:
 > **Note:** You need to connect to TPUv2, or this notebook will **NOT** work.  
 > In Google Colab, go to `runtime -> change runtime type`, then select TPUv2. This should already be the default when you open the link.
 
-Notebook Updated on 12/23/24
+Fine-tune notebook Updated on 12/23/24
 * Shows how use actigraphy of variable length
 * Model adapted for both TPU (fastest) or GPU 
 
