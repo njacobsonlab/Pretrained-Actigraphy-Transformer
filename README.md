@@ -21,7 +21,7 @@ This notebook will guide you through:
 6. Model Explainability
 
 > **Note:** You need to connect to TPU or GPU, or this notebook will be **very** slow.  
-> In Google Colab, go to `runtime -> change runtime type`, then select TPUv2 or GPU. This should already be the default when you open the link.
+> In Google Colab, go to `runtime -> change runtime type`, then select TPUv2 or GPU. TPU should already be the default when you open the link.
 
 Fine-tune notebook Updated on 12/23/24
 * Shows how use actigraphy of variable length
@@ -40,7 +40,7 @@ This notebook will guide you through:
 7. Inspecting the Autoencoder
 
 > **Note:** You need to connect to TPU or GPU, or this notebook will be **very** slow.  
-> In Google Colab, go to `runtime -> change runtime type`, then select TPUv2 or GPU. This should already be the default when you open the link.
+> In Google Colab, go to `runtime -> change runtime type`, then select TPUv2 or GPU. TPU should already be the default when you open the link.
 
 ---
 ## 💾 PAT Encoders Download
