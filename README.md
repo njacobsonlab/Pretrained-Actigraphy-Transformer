@@ -41,7 +41,7 @@ This notebook will guide you through:
 
 > **Note:** You need to connect to TPU, or this notebook will **not** work.  
 > In Google Colab, go to `runtime -> change runtime type`, then select TPUv2. This should already be the default when you open the link.<br>
-> It is possible to easily adapt this notebook so that you can run with GPUs instead if you choose, though it will be a bit slower
+> It is possible to easily adapt this notebook so that you can run with GPUs instead if you choose
 
 ---
 ## 💾 PAT Encoders Download
