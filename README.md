@@ -20,7 +20,7 @@ This notebook will guide you through:
 5. Evaluating Model
 6. Model Explainability
 
-> **Note:** You need to connect to TPU or GPU, or this notebook will be **very** slow.  
+> **Note:** You need to connect to TPU **or** GPU, or this notebook will be **very** slow.  
 > In Google Colab, go to `runtime -> change runtime type`, then select TPUv2 or GPU. TPU should already be the default when you open the link.
 
 Fine-tune notebook Updated on 12/23/24
@@ -39,8 +39,9 @@ This notebook will guide you through:
 6. Saving the Model Encoder
 7. Inspecting the Autoencoder
 
-> **Note:** You need to connect to TPU or GPU, or this notebook will be **very** slow.  
-> In Google Colab, go to `runtime -> change runtime type`, then select TPUv2 or GPU. TPU should already be the default when you open the link.
+> **Note:** You need to connect to TPU, or this notebook will **not** work.  
+> In Google Colab, go to `runtime -> change runtime type`, then select TPUv2. This should already be the default when you open the link.
+> It is possible to easily adapt this notebook so that you can run with GPUs instead if you choose, though it will be a bit slower
 
 ---
 ## 💾 PAT Encoders Download
