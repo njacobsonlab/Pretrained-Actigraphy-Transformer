@@ -10,7 +10,7 @@ paper: https://doi.org/10.48550/arXiv.2411.15240
 These notebooks should be self-sufficient so you should be able to run them all the way through. Enjoy exploring!
 
 ### ⭐ How to: Fine-tune PAT + Built-in Model Explainability
-[Launch Notebook](https://colab.research.google.com/drive/13FBOP1rUeAfLmSrVv578XCGHqeEU4FJf)
+[Launch Notebook](https://colab.research.google.com/drive/1HemPmkADQYRW214ft8ep8ARkfxPkwEij#scrollTo=eAlhD3TN148g)
 
 This notebook will guide you through:
 1. Setting up (importing/connecting to TPU)
@@ -22,6 +22,10 @@ This notebook will guide you through:
 
 > **Note:** You need to connect to TPUv2, or this notebook will **NOT** work.  
 > In Google Colab, go to `runtime -> change runtime type`, then select TPUv2. This should already be the default when you open the link.
+
+Notebook Updated on 12/23/24
+* Shows how use actigraphy of variable length
+* Model adapted for both TPU (fastest) or GPU 
 
 ### 🎓 How to: Self-Supervised Pretraining
 [Launch Notebook](https://colab.research.google.com/drive/1yLsxmd8fhQzkQLaIl5PB6T6CVyCebA-r)
@@ -43,15 +47,15 @@ This notebook will guide you through:
 These are the H5 files that store the pre-trained transformer encoder objects themselves. Don't worry, they are small, just a few megabytes. The demo notebook above, `How to: Fine-tune PAT + Built-in Model Explainability`, shows you where to load encoders. 
 
 ### Pretrained on 2003-2004, 2005-2006, 2011-2012, 2013-2014 NHANES Actigraphy (N=29,307)
-1. [PAT-L](https://www.dropbox.com/scl/fi/man7n56fmo3m78bbeuic8/encoder_large_90_unsmoothed_mse_all.h5?rlkey=nnovpuo6yf42dqi9od3n9dqpl&st=mfc5f550&dl=0)
-2. [PAT-M](https://www.dropbox.com/scl/fi/jc1gdzuj1tp6oq0cu9xzk/encoder_medium_90_unsmoothed_mse_all.h5?rlkey=a1609bxbd4pxyvnk5uw2zl5vs&st=drbco21l&dl=0)
-3. [PAT-S](https://www.dropbox.com/scl/fi/0j03b6wzlav9p00qbg0ok/encoder_small_90_unsmoothed_mse_all.h5?rlkey=yu7s1jar6fbkfv1s71a05nyif&st=1zqo31t2&dl=0)
+1. [PAT-L](https://www.dropbox.com/scl/fi/dglz917p3hqw5mwbovsv2/PAT-L_21k_weights.h5?rlkey=ppzxvp9i7t9k8j3w9x77fjfil&st=3g3mm845&dl=1)
+2. [PAT-M](https://www.dropbox.com/scl/fi/dsd6px97gcipqm80iie17/PAT-M_21k_weights.h5?rlkey=q480rjj5g2id88xt9feie70tj&st=ou924quo&dl=1)
+3. [PAT-S](https://www.dropbox.com/scl/fi/ik45lrtqgenm61cgkkgkz/PAT-S_21k_weights.h5?rlkey=n2zv3jhdnvp7w8inir96y1ime&st=xch3lnra&dl=1)
 
 ### Pretrained on 2003-2004, 2005-2006, 2011-2012 NHANES Actigraphy (N=21,538)
 > ❗ Good if you want to conduct a study with 2013-2014 NHANES actigraphy data
-1. [PAT-L](https://www.dropbox.com/scl/fi/gpa294hjl1cpt2tgf0s7o/encoder_large_90_unsmoothed_mse_all.h5?rlkey=8d7rv9qtt36ammgy14ed769we&st=cvhmwxeo&dl=0)
-2. [PAT-M](https://www.dropbox.com/scl/fi/7h21c4sv3bbgsy3qdveb0/encoder_medium_90_unsmoothed_mse_all.h5?rlkey=w46b82qx328q0rxk8i1y16cnr&st=0lr3ho5o&dl=0)
-3. [PAT-S](https://www.dropbox.com/scl/fi/drrs4q7itl83sq6c4ynfy/encoder_small_90_unsmoothed_mse_all.h5?rlkey=of53s0c9ki7mtoq9q8h6p0ybv&st=oufs4zd0&dl=0)
+1. [PAT-L](https://www.dropbox.com/scl/fi/exk40hu1nxc1zr1prqrtp/PAT-L_29k_weights.h5?rlkey=t1e5h54oob0e1k4frqzjt1kmz&st=7a20pcox&dl=1)
+2. [PAT-M](https://www.dropbox.com/scl/fi/hlfbni5bzsfq0pynarjcn/PAT-M_29k_weights.h5?rlkey=frbkjtbgliy9vq2kvzkquruvg&st=mxc4uet9&dl=1)
+3. [PAT-S](https://www.dropbox.com/scl/fi/12ip8owx1psc4o7b2uqff/PAT-S_29k_weights.h5?rlkey=ffaf1z45a74cbxrl7c9i2b32h&st=mfk6f0y5&dl=1)
 
 ---
 
