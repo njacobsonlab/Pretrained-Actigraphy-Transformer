@@ -58,24 +58,30 @@ These are the H5 files that store the pre-trained transformer encoder weights. D
 
 ## FAQ
 
+### 📌 **Can PAT handle any input length?**  
 <details>
-<summary><strong>Can PAT handle any input length?</strong></summary>
+<summary><strong>Click to Expand</strong></summary>
 Yes, it can!  
 Our model can handle inputs of any length (both longer and shorter than 1 week).  
-See the **Fine-tune PAT + Built-in Model Explainability** notebook above for a demo.
+Check out the **Fine-tune PAT + Built-in Model Explainability** notebook above for a demo.
 </details>
 
+---
+
+### 💻 **Can I use GPUs / can I locally fine-tune PAT?**  
 <details>
-<summary><strong>Can I use GPUs / can I locally fine-tune PAT?</strong></summary>
-Yes, you can!  
-Although TPUs (which can be accessed via Colab) are recommended as they are cheaper and can be faster than GPUs.
+<summary><strong>Click to Expand</strong></summary>
+Absolutely!  
+While GPUs are supported, TPUs (accessible via Colab) are recommended as they are often faster and more cost-effective.
 </details>
 
-<details>
-<summary><strong>What is the meta data for the model sizes?</strong></summary>
-You may need to know a few details about the model setup to run the model explainability functions.  
+---
 
-Here are some parameters for your reference:
+### 🧮 **What is the meta data for the model sizes?**  
+<details>
+<summary><strong>Click to Expand</strong></summary>
+To run the model explainability functions, you may need the following details about the model configuration:  
+
 ```python
 # Model Size
 if size == "small":
