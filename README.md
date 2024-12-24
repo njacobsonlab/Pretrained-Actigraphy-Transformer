@@ -63,7 +63,7 @@ These are the H5 files that store the pre-trained transformer encoder weights. D
 <summary><strong>Click to Expand</strong></summary>
 Yes, it can!  
 Our model can handle inputs of any length (both longer and shorter than 1 week).  
-Check out the **Fine-tune PAT + Built-in Model Explainability** notebook above for a demo.
+Check out the `How to: Fine-tune PAT + Built-in Model Explainability` notebook above for a demo.
 </details>
 
 **Can I use GPUs / can I locally fine-tune PAT?**  
