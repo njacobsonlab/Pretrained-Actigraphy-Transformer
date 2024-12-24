@@ -56,45 +56,57 @@ These are the H5 files that store the pre-trained transformer encoder weights. D
 
 ---
 
-## 🧠 Model Explainability
-You may need to know a few details about the model setup to run the model explainability functions. <br>
+## FAQ
+
+<details>
+<summary><strong>Can PAT handle any input length?</strong></summary>
+Yes, it can!  
+Our model can handle inputs of any length (both longer and shorter than 1 week).  
+See the **Fine-tune PAT + Built-in Model Explainability** notebook above for a demo.
+</details>
+
+<details>
+<summary><strong>Can I use GPUs / can I locally fine-tune PAT?</strong></summary>
+Yes, you can!  
+Although TPUs (which can be accessed via Colab) are recommended as they are cheaper and can be faster than GPUs.
+</details>
+
+<details>
+<summary><strong>What is the meta data for the model sizes?</strong></summary>
+You may need to know a few details about the model setup to run the model explainability functions.  
+
 Here are some parameters for your reference:
-
 ```python
-## Model Size
+# Model Size
 if size == "small":
-
-  patch_size = 18
-  embed_dim = 96
-  # encoder
-  encoder_num_heads = 6
-  encoder_ff_dim = 256
-  encoder_num_layers = 1
-  encoder_rate = 0.1
-
+    patch_size = 18
+    embed_dim = 96
+    # encoder
+    encoder_num_heads = 6
+    encoder_ff_dim = 256
+    encoder_num_layers = 1
+    encoder_rate = 0.1
 
 if size == "medium":
-
-  patch_size = 18
-  embed_dim = 96
-  # encoder
-  encoder_num_heads = 12
-  encoder_ff_dim = 256
-  encoder_num_layers = 2
-  encoder_rate = 0.1
-
+    patch_size = 18
+    embed_dim = 96
+    # encoder
+    encoder_num_heads = 12
+    encoder_ff_dim = 256
+    encoder_num_layers = 2
+    encoder_rate = 0.1
 
 if size == "large":
-
-  patch_size = 9
-  embed_dim = 96
-  # encoder
-  encoder_num_heads = 12
-  encoder_ff_dim = 256
-  encoder_num_layers = 4
-  encoder_rate = 0.1
-
+    patch_size = 9
+    embed_dim = 96
+    # encoder
+    encoder_num_heads = 12
+    encoder_ff_dim = 256
+    encoder_num_layers = 4
+    encoder_rate = 0.1
 ```
+</details>
+
 
 ## 📜 Attribution
 Please cite our work if you use it 
