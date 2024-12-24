@@ -56,7 +56,7 @@ These are the H5 files that store the pre-trained transformer encoder weights. D
 
 ---
 
-## FAQ ❓
+## FAQs ❓
 
  
 <details>
