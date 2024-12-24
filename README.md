@@ -73,10 +73,9 @@ Absolutely!
 While GPUs are supported, TPUs (accessible via Colab) are recommended as they are often faster and more cost-effective.
 </details>
 
-**What is the meta data for the model sizes?**  
+**What is the metadata for the model sizes?**  
 <details>
 <summary><strong>Click to Expand</strong></summary>
-To run the model explainability functions, you may need the following details about the model configuration:  
 
 ```python
 # Model Size
