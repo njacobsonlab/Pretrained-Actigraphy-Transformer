@@ -108,6 +108,7 @@ if size == "large":
 ```
 </details>
 
+---
 
 ## 📜 Attribution
 Please cite our work if you use it 
