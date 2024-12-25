@@ -75,7 +75,7 @@ While GPUs are supported, TPUs (accessible via Colab) are recommended as they ar
 
 
 <details>
-<summary><strong>What are the parameters for the model sizes?</strong></summary>
+<summary><strong>What are the hyperparameters for the model sizes?</strong></summary>
 
 ```python
 # Model Size
