@@ -24,7 +24,7 @@ This notebook will guide you through:
 > In Google Colab, go to `runtime -> change runtime type`, then select TPUv2 or GPU. TPU should already be the default when you open the link.
 
 ### 🎓 How to: Self-Supervised Pretraining
-[Launch Notebook](https://colab.research.google.com/drive/1yLsxmd8fhQzkQLaIl5PB6T6CVyCebA-r)
+[Launch Notebook](https://colab.research.google.com/drive/1I_q3rRkGSYLZH-joYPobmOYobZPsAxag#scrollTo=FLBWYOLfN7Vt)
 
 This notebook will guide you through:
 1. Setting Up (importing/connecting to TPU)
