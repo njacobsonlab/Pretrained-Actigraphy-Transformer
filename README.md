@@ -45,15 +45,15 @@ This notebook will guide you through:
 These are the H5 files that store the pre-trained transformer encoder weights. Don't worry, they are small, just a few megabytes. The demo notebook above, `How to: Fine-tune PAT + Built-in Model Explainability`, shows you where to load encoder weights. 
 
 ### Pretrained on 2003-2004, 2005-2006, 2011-2012, 2013-2014 NHANES Actigraphy (N=29,307)
-1. [PAT-L](https://www.dropbox.com/scl/fi/dglz917p3hqw5mwbovsv2/PAT-L_21k_weights.h5?rlkey=ppzxvp9i7t9k8j3w9x77fjfil&st=3g3mm845&dl=1)
-2. [PAT-M](https://www.dropbox.com/scl/fi/dsd6px97gcipqm80iie17/PAT-M_21k_weights.h5?rlkey=q480rjj5g2id88xt9feie70tj&st=ou924quo&dl=1)
-3. [PAT-S](https://www.dropbox.com/scl/fi/ik45lrtqgenm61cgkkgkz/PAT-S_21k_weights.h5?rlkey=n2zv3jhdnvp7w8inir96y1ime&st=xch3lnra&dl=1)
-
-### Pretrained on 2003-2004, 2005-2006, 2011-2012 NHANES Actigraphy (N=21,538)
-> ❗ Good if you want to conduct a study with 2013-2014 NHANES actigraphy data
 1. [PAT-L](https://www.dropbox.com/scl/fi/exk40hu1nxc1zr1prqrtp/PAT-L_29k_weights.h5?rlkey=t1e5h54oob0e1k4frqzjt1kmz&st=7a20pcox&dl=1)
 2. [PAT-M](https://www.dropbox.com/scl/fi/hlfbni5bzsfq0pynarjcn/PAT-M_29k_weights.h5?rlkey=frbkjtbgliy9vq2kvzkquruvg&st=mxc4uet9&dl=1)
 3. [PAT-S](https://www.dropbox.com/scl/fi/12ip8owx1psc4o7b2uqff/PAT-S_29k_weights.h5?rlkey=ffaf1z45a74cbxrl7c9i2b32h&st=mfk6f0y5&dl=1)
+
+### Pretrained on 2003-2004, 2005-2006, 2011-2012 NHANES Actigraphy (N=21,538)
+> ❗ Good if you want to conduct a study with 2013-2014 NHANES actigraphy data
+1. [PAT-L](https://www.dropbox.com/scl/fi/dglz917p3hqw5mwbovsv2/PAT-L_21k_weights.h5?rlkey=ppzxvp9i7t9k8j3w9x77fjfil&st=3g3mm845&dl=1)
+2. [PAT-M](https://www.dropbox.com/scl/fi/dsd6px97gcipqm80iie17/PAT-M_21k_weights.h5?rlkey=q480rjj5g2id88xt9feie70tj&st=ou924quo&dl=1)
+3. [PAT-S](https://www.dropbox.com/scl/fi/ik45lrtqgenm61cgkkgkz/PAT-S_21k_weights.h5?rlkey=n2zv3jhdnvp7w8inir96y1ime&st=xch3lnra&dl=1)
 
 ---
 
