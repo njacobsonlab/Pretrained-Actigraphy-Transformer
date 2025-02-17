@@ -11,7 +11,7 @@ paper: https://doi.org/10.48550/arXiv.2411.15240
 These notebooks should be self-sufficient so you should be able to run them all the way through. Enjoy exploring!
 
 ### ⭐ How to: Fine-tune PAT + Built-in Model Explainability
-[Launch Notebook](https://colab.research.google.com/drive/1HemPmkADQYRW214ft8ep8ARkfxPkwEij#scrollTo=eAlhD3TN148g)
+[Do not click - under maintenance](https://colab.research.google.com/drive/1HemPmkADQYRW214ft8ep8ARkfxPkwEij#scrollTo=eAlhD3TN148g)
 
 This notebook will guide you through:
 1. Setting up (importing/connecting to TPU)
@@ -25,7 +25,7 @@ This notebook will guide you through:
 > In Google Colab, go to `runtime -> change runtime type`, then select TPUv2 or GPU. TPU should already be the default when you open the link.
 
 ### 🎓 How to: Self-Supervised Pretraining
-[Launch Notebook](https://colab.research.google.com/drive/1I_q3rRkGSYLZH-joYPobmOYobZPsAxag#scrollTo=FLBWYOLfN7Vt)
+[Do not click - under maintenance](https://colab.research.google.com/drive/1I_q3rRkGSYLZH-joYPobmOYobZPsAxag#scrollTo=FLBWYOLfN7Vt)
 
 This notebook will guide you through:
 1. Setting Up (importing/connecting to TPU)
