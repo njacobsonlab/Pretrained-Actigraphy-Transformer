@@ -184,7 +184,7 @@ pydantic_core==2.27.2
 pygame==2.6.1
 Pygments==2.19.1
 PyGObject==3.42.1
-PyJWT==2.3.0
+PyJWT==2.4.0
 pyparsing==3.2.1
 PySocks==1.7.1
 pytest==8.3.4
