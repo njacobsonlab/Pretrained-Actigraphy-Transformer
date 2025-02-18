@@ -14,15 +14,15 @@ These notebooks should be self-sufficient so you should be able to run them all 
 [Do not click - under maintenance](https://colab.research.google.com/drive/1HemPmkADQYRW214ft8ep8ARkfxPkwEij#scrollTo=eAlhD3TN148g)
 
 This notebook will guide you through:
-1. Setting up (importing/connecting to TPU)
+1. Setting up (importing/connecting to GPU)
 2. Loading Demo Data
 3. Loading Model
 4. Finetuning Model
 5. Evaluating Model
 6. Model Explainability
 
-> **Note:** You need to connect to TPU **or** GPU, or this notebook will be **very** slow.  
-> In Google Colab, go to `runtime -> change runtime type`, then select TPUv2 or GPU. TPU should already be the default when you open the link.
+> **Note:** You need to connect to GPU, or this notebook will be **very** slow.  
+> In Google Colab, go to `runtime -> change runtime type`, then select a GPU. A GPU should already be the default when you open the link.
 
 ### 🎓 How to: Self-Supervised Pretraining
 [Do not click - under maintenance](https://colab.research.google.com/drive/1I_q3rRkGSYLZH-joYPobmOYobZPsAxag#scrollTo=FLBWYOLfN7Vt)
