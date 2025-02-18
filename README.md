@@ -71,13 +71,14 @@ Check out the `How to: Fine-tune PAT + Built-in Model Explainability` notebook a
 <details>
 <summary><strong>Can I use GPUs / can I locally fine-tune PAT?</strong></summary>
 Absolutely!  
-### ⚠️ **ANNOUNCEMENT (as of 13 January 2025 Colab Update): GPUs are recommended over TPUs for fine-tuning PAT** 
+#### ⚠️ **ANNOUNCEMENT (as of 13 January 2025 Colab Update): GPUs are recommended over TPUs for fine-tuning PAT** 
 - **GPUs:**  
   - Fully compatible with PAT.  
   - On Colab, GPUs may be slower than TPUs but are more reliable.
 - **TPUs:**  
   - Fine-tuning and evaluation may be unstable.  
   - ⚠️ Model explainability is **not supported** on TPUs.
+
 </details>
 
 
