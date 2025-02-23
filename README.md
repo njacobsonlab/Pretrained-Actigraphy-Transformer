@@ -123,6 +123,15 @@ if size == "large":
 
 ## 📜 Attribution
 Please cite our work if you use it 
+```
+@misc{
+     ruanzhang2024PAT,
+     title={AI Foundation Models for Wearable Movement Data in Mental Health Research},
+     author={Ruan, Franklin Y. and Zhang, Aiwei and Oh, Jenny and Jin, SouYoung and Jacobson, Nicholas C.},
+     publisher={arXiv:2411.15240},
+     year={2024}
+}
+```
 
 ## ☎️ Contacts
 **Corresponding Author:** Franklin Ruan | franklin.y.ruan.24@dartmouth.edu <br>
