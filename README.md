@@ -11,7 +11,7 @@ paper: https://doi.org/10.48550/arXiv.2411.15240
 These notebooks should be self-sufficient so you should be able to run them all the way through. Enjoy exploring!
 
 ### ⭐ How to: Fine-tune PAT + Built-in Model Explainability
-[Launch Notebook](https://colab.research.google.com/drive/1HemPmkADQYRW214ft8ep8ARkfxPkwEij#scrollTo=eAlhD3TN148g)
+[Launch Notebook](https://colab.research.google.com/drive/142opPPQoTPezeb8So01hHSeBS8nSk518?usp=sharing)
 
 This notebook will guide you through:
 1. Setting up (importing/connecting to GPU)
