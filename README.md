@@ -123,6 +123,7 @@ if size == "large":
 
 ## 📜 Attribution
 Please cite our work if you use it 
+[https://arxiv.org/abs/2411.15240](https://doi.org/10.48550/arXiv.2411.15240)
 
 
 ## ☎️ Contacts
