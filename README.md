@@ -1,4 +1,4 @@
-# AI Foundation Models for Wearable Movement Data in Mental Health Research 🏃‍♀️🏃
+# A Foundation Model for Wearable Movement Data in Mental Health Research 🏃‍♀️🏃
 
 This is the GitHub associated with the paper "A Foundation Model for Wearable Movement Data in Mental Health Research" <br>
 
@@ -124,7 +124,7 @@ if size == "large":
 
 ## 📜 Attribution
 Please cite our work if you use it 
-[https://arxiv.org/abs/2411.15240](https://doi.org/10.48550/arXiv.2411.15240)
+https://ieeexplore.ieee.org/document/11524051 
 
 
 ## ☎️ Contacts
