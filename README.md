@@ -128,6 +128,7 @@ https://ieeexplore.ieee.org/document/11524051
 
 
 ## ☎️ Contacts
-**Corresponding Author:** Franklin Ruan | franklin.y.ruan.24@dartmouth.edu <br>
+Franklin Ruan | fyruan2@illinois.edu <br> 
+Aiwei Ivy Zhang | azhang677@gatech.edu <br>
 
 
